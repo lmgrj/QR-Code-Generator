@@ -1,5 +1,9 @@
 # QR-Code-Generator - Python
 
+
+![image](https://user-images.githubusercontent.com/54851310/175164641-dc660c61-075a-4d32-8857-ac657deb698c.png)
+
+
 # Description:
 QR Code Generator in Python using pyqrcode, pypng and pillow Library.
 
